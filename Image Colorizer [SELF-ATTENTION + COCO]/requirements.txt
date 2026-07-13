@@ -1,0 +1,9 @@
+torch>=1.13
+torchvision>=0.14
+scikit-image>=0.19
+numpy>=1.22
+Pillow>=9.0
+matplotlib>=3.5
+tqdm>=4.64
+# optional: only needed for download_data.py --source fiftyone
+# fiftyone>=0.21
